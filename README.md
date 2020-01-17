@@ -4,4 +4,4 @@
 
 About the game
 ==============
-Zombie Python is a small videogame developed with Python using the PyGame libraries.
+Zombie Python is a small 2D videogame developed with Python using the PyGame libraries.

@@ -1,4 +1,4 @@
-# Simple-zombie-shooter-
+# Simple-zombie-shooter
 
 ![Screenshot](preview_image.png)
 
